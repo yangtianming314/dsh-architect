@@ -2,7 +2,9 @@
 
 DSH AI 架构师编排插件，提供角色路由、硬工具权限、并发治理、项目记录和交付设置。
 
-![AI 架构师设置](docs/screenshots/architect-settings.png)
+![AI 架构师设置](https://raw.githubusercontent.com/yangtianming314/dsh-architect/main/docs/screenshots/architect-settings.png)
+
+截图由发布包内的真实 `ArchitectSettings` 组件渲染，Provider、模型和角色说明使用脱敏示例配置。
 
 ## 能力
 
